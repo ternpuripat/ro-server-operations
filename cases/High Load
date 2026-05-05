@@ -1,0 +1,16 @@
+## Case: Server Lag During High Activity
+
+**Problem**
+Users experienced lag during peak hours.
+
+**Analysis**
+Identified high resource usage and inefficient script execution.
+
+**Action**
+Optimized scripts and adjusted server configuration.
+
+**Result**
+System performance improved and lag reduced.
+
+**Key Takeaway**
+Performance monitoring is critical in live systems.
