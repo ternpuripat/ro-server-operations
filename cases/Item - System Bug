@@ -1,0 +1,16 @@
+## Case: Game System Bug
+
+**Problem**
+Players reported incorrect item behavior.
+
+**Analysis**
+Found logic issue in script.
+
+**Action**
+Fixed logic and redeployed.
+
+**Result**
+System returned to normal.
+
+**Key Takeaway**
+Testing before deployment is essential.
