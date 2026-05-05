@@ -19,3 +19,20 @@ Managed a full-stack private game server including system operations, developmen
 
 ### Automation
 - Implemented basic automation to reduce repetitive tasks
+## Incident Handling Experience
+
+- Resolved real-time server crashes affecting active users
+- Investigated script-related bugs impacting gameplay
+- Monitored system performance and applied fixes to prevent recurring issues
+
+## Environment
+
+- Live production environment with active users
+- Real-time issue resolution under user impact
+
+## Skills Demonstrated
+
+- Troubleshooting
+- Root cause analysis
+- System monitoring
+- User support
